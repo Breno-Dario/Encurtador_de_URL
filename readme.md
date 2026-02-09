@@ -105,11 +105,18 @@ mvn spring-boot:run
 ---
 ## ✅ Funcionalidade 
 
-- Criação de URLs curtas a partir de URLs longas
+- Criação de URLs curtas a partir de URLs longas..
 - Redirecionamento automático para URL original
 - Código curto gerado automaticamente (6 caracteres)
 - Persistência com Spring Data JPA
 - Suporte para H2 em memória ou qualquer banco relacional
+
+---
+## 📷 Foto
+
+<img width="1036" height="679" alt="image" src="https://github.com/user-attachments/assets/bf3cac5c-4519-4cb3-9053-7847f4a8ba14" />
+
+<img width="924" height="297" alt="image" src="https://github.com/user-attachments/assets/35fe7c2b-9b9a-453d-8054-6eb18ecc019a" />
 
 ---
 📄 Licensa
