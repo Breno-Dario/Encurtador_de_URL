@@ -114,7 +114,7 @@ mvn spring-boot:run
 ---
 ## 📷 Foto
 
-<img width="1036" height="679" alt="image" src="https://github.com/user-attachments/assets/bf3cac5c-4519-4cb3-9053-7847f4a8ba14" />
+<img width="891" height="537" alt="image" src="https://github.com/user-attachments/assets/edeeffd7-41a2-43f3-b7db-a6ab50a813a2" />
 
 <img width="924" height="297" alt="image" src="https://github.com/user-attachments/assets/35fe7c2b-9b9a-453d-8054-6eb18ecc019a" />
 
